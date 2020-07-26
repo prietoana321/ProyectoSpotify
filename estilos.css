@@ -1,0 +1,28 @@
+
+
+@font-face{
+    font-family: 'lorenza';
+    src: url(fonts/ArcaMajora3-Heavy.otf);
+}
+@font-face{
+    font-family:'cata sans';
+    src: url(fonts/Braga.otf);
+
+}
+
+.icon-whatsapp1:before {
+    content: "\e938";
+    color: white;
+
+  }
+.button{
+    background:#311b92 ;
+    color: white;
+    display: inline-block;
+    font-family:'ArcaMajora3-Bold' ;
+    font-size: 1.20em;
+    margin-right: 2px;
+    padding: 8px;
+    text-align: center ;
+
+} 
